@@ -14,7 +14,9 @@ Get ready for a long compilation of GHCJS, you also might need additional librar
 ## Run
 
 ```
-$ stack exec -- reflex-play
+$ cp app.css .stack-work/dist/x86_64-linux/Cabal-1.22.4.0_ghcjs/build/reflex-demo/reflex-demo.jsexe/
+$ cp index.html .stack-work/dist/x86_64-linux/Cabal-1.22.4.0_ghcjs/build/reflex-demo/reflex-demo.jsexe/
+$ firefox .stack-work/dist/x86_64-linux/Cabal-1.22.4.0_ghcjs/build/reflex-demo/reflex-demo.jsexe/index.html
 ```
 
 ## TODO
