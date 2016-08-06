@@ -19,6 +19,10 @@ $ cp index.html .stack-work/dist/x86_64-linux/Cabal-1.22.4.0_ghcjs/build/reflex-
 $ firefox .stack-work/dist/x86_64-linux/Cabal-1.22.4.0_ghcjs/build/reflex-demo/reflex-demo.jsexe/index.html
 ```
 
+## The result 
+
+should be like [this](https://alogic0.github.io/reflex-playground/)
+
 ## TODO
 
 - Add Nix deps to remove tedious task of environment configuration
